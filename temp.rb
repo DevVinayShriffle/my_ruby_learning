@@ -1,0 +1,1 @@
+puts "Checking git mannually file add using terminal."
