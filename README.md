@@ -1,4 +1,5 @@
  #This is dummy content because i am doing setup and practicing github commands. I have done configuration using SSH key which don't have any kind of expiry date and now I am learning about all commands. I am practicing btw branches. I am testing. and try to understand staging concept. checking tag and making tag. Working with stash.
+<<<<<<< HEAD
 
  Hi , Hello how are you? and what are you doing?
 
@@ -8,3 +9,5 @@ working with cherry-pick .
 
  
  Good for you.
+ 
+>>>>>>> Commiting through master origin
