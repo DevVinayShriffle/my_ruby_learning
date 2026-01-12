@@ -80,9 +80,26 @@ class Name
 	def print
 		puts @lname
 		puts @fname
+		puts defined?@fname
+		puts defined? @fullname
+	end
+
+	def self.animal(animal)
+		puts "Given animal is #{animal}"
 	end
 end
 
 name = Name.new("Vinay", "Kumar")
+fname = "B.tech"
 name.print
+Name.animal("Lion")
+puts defined? fname
+puts defined? name
+puts defined? name.print
+puts defined? name.initialize
+puts defined? Name.animal
+puts defined? Name
+puts defined? lname
+name.animal("tiger")
+puts defined? name.animal("tiger")
 
