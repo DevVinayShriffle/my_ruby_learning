@@ -36,6 +36,7 @@ temp.degree("B.tech")
 
 test.full_name("Lav kush Sahu")
 test.degree("M.tech")
+print "hello\n"
 
 #=================================
 
