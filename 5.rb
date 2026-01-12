@@ -20,6 +20,10 @@ end
 var=temp
 puts var.class
 
+def hello
+	puts "hello Everyone"
+end
+
 def sample (*para)
 	puts para.length
 	puts para.class
