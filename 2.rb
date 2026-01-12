@@ -10,6 +10,7 @@ a=10
 b=10
 result=a-b
 puts "#{result}"
+print result
 
 puts "#{a*b}"
 puts "#{b/a}"

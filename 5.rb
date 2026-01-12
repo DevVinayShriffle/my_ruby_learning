@@ -10,7 +10,7 @@ rescue
 	#retry
 end
 
-
+# adding comment
 def temp
 	i= 100
 	j = 200
@@ -19,6 +19,10 @@ def temp
 end 
 var=temp
 puts var.class
+
+def hello
+	puts "hello Everyone"
+end
 
 def sample (*para)
 	puts para.length
